@@ -70,9 +70,7 @@
 
 ### **Virtual Machine (Kali Linux)**
 
-![](./images/Kali.png)
-
-![](./images/kali1.png)
+![image](https://github.com/user-attachments/assets/43ffd507-dcaa-40cc-b955-8195b9996260)
 
 ---
 
@@ -84,15 +82,16 @@
 
 ### **Sleuth Kit**
 
-![](./images/s1.png)
+![image](https://github.com/user-attachments/assets/593521c8-d9f5-449b-b755-ed47edff2e56)
 
-![](./images/s2.png)
+![image](https://github.com/user-attachments/assets/705ce368-075a-40c3-91ae-b4e6ae87ad9a)
 
 ---
 
 ### **Creation of Virtual Hard Disk**
 
-![](./images/disk.png)
+![image](https://github.com/user-attachments/assets/b266330a-0e90-4917-9424-e784ff7ee937)
+
 
 ---
 
